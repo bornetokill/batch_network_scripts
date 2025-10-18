@@ -6,6 +6,7 @@ Network connection related information
 + https://github.com/17SABT71M3/mac_address_generator <b>Generate random mac addresses</b>
 
 Connection actions and reports
+https://github.com/17SABT71M3/decor_config Fancy display of Ip Configuration and Settings.<br>
 + https://github.com/17SABT71M3/Ip_updater <b>Configure DHCP/Static IPv4 connection</b>
 + https://github.com/17SABT71M3/Disable-or-Enable-network-Connection <b>Enable / disable</b>
 + https://github.com/17SABT71M3/internet_test_report.bat <b>Internet connection report </b>
